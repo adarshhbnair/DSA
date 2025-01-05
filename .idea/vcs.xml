@@ -4,6 +4,5 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Binary Search" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DSA" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Linear Search" vcs="Git" />
   </component>
 </project>
